@@ -14,7 +14,7 @@ document.getElementById('btn').addEventListener('click', function (event) {
 
     // step 5: allow user to log in;
     if (number === '01865628444' && pin === '2381') {
-        window.location.href = 'Get-Money-project/home.html'
+        window.location.href = '/home.html'
 
     }
     else if (number === '01616210277' && pin === '2006') {
